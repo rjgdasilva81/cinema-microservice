@@ -1,0 +1,10 @@
+# lembre de colocar o nome da pasta sem o ponto na frente
+
+# Para ignorar todos arquivos e sub-pastas localizados na pasta movies-service
+src/.env
+
+# Para ignorar todos os arquivos e sub-pastas da pasta data/
+data/
+
+# Para ignorar todos os arquivos e sub-pastas da pasta node_modules/
+src/node_modules/
